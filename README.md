@@ -1,2 +1,2 @@
 # evo_nn_cars
-Evolutionary neural networks learn how to drive a car.
+This is a small demo that shows evolutionary neural networks learning how to drive a car.
